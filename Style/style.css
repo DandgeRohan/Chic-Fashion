@@ -192,7 +192,7 @@ input[type="checkbox"] {
 
 .banner_section {
     min-height: 100vh;
-    background: var(--color-black) url(../Assets/Background\ IMG.png)no-repeat;
+    background: var(--color-black) url(../Assets/Background_IMG.png)no-repeat;
     background-position: 10% 0%;
     background-size: cover;
     /* filter: brightness(80%); */
